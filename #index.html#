@@ -1,9 +1,9 @@
-
+ 
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>DayToGoAhead</title>
+    <title>DayToGo</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://d396qusza40orc.cloudfront.net/startup%2Fcode%2Fbootstrap-combined.no-icons.min.css">
     <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.0.2/css/font-awesome.css">
@@ -146,60 +146,52 @@
       </div>
       <div class="row-fluid pitch">
         <div class="span5 offset1 video">
-          <img class="img-polaroid" alt="Placeholder" src="http://cache2.asset-cache.net/gc/174279792-racehorse-label-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=Yw9JtHglT0LGaFjQliewG7hpI0R%2bBzArfLbKpwIKz5g%3d">
+          <img class="img-polaroid" src="http://cache2.asset-cache.net/gc/174279792-racehorse-label-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=Yw9JtHglT0LGaFjQliewG7hpI0R%2bBzArfLbKpwIKz5g%3d">
         </div>
 
         <!-- We define a new 'actions' div to contain statistics, order, and share buttons.-->
-        <div class="span5 actions">
-          <div class="row-fluid">
+        <div class="span6 actions">
           <div class="span8 offset2">
-            <div class="row-fluid statistics">
+            <div class="statistics">
               <div class="span4">
                 <!-- linediv-l and linediv-r give dividing lines that look
                 different in horizontal and vertical layouts, illustrating
                 media queries. -->
                 <div class="linediv-l">
-                <h3>1000</h3> <p>backers</p>
+                <h3>276</h3> <p>backers</p>
                 </div>
               </div>
               <div class="span4">
                 <div class="linediv-c">
-                  <h3>$6000</h3> <p>of $10,000</p>
+                  <h3>$15,000</h3> <p>of $11,100</p>
                 </div>
               </div>
               <div class="span4">
                 <div class="linediv-r">
-                <h3>10</h3> <p>days left</p>
+                <h3>6</h3> <p>days left</p>
                 </div>
               </div>
             </div>
           </div>
-          <div class="row-fluid">
           <div class="span10 offset1">
             <!-- Bootstrap progress bar -->
             <!-- http://twitter.github.io/bootstrap/components.html#progress -->
             <div class="thermometer progress active">
-              <div class="bar bar-success" style="width: 60%;"></div>
-              <div class="bar bar-warning" style="width: 40%;"></div>
+              <div class="bar bar-success" style="width: 74%;"></div>
+              <div class="bar bar-warning" style="width: 26%;"></div>
             </div>
           </div>
-          </div>
-          <div class="row-fluid">
           <div class="span6 offset3 order">
             <!-- Standard Bootstrap button. -->
             <!-- http://twitter.github.io/bootstrap/base-css.html#buttons -->
             <button class="btn btn-success btn-large">Preorder</button>
           </div>
-          </div>
-          <div class="row-fluid">
           <div class="span8 offset2 social">
             <!-- Social buttons are not included in default Bootstrap. -->
             <!-- See: http://noizwaves.github.io/bootstrap-social-buttons -->
             <button class="btn btn-twitter"><i class="icon-twitter"></i> | Twitter</button>
             <button class="btn btn-facebook"><i class="icon-facebook"></i> | Facebook</button>
           </div>
-          </div>
-        </div>
         </div>
       </div>
 
@@ -209,11 +201,12 @@
       <!-- http://placehold.it -->
       <div class="row-fluid section1">
         <div class="span5 offset1 asset">
-          <img class="img-polaroid"  alt="Placeholder" src="http://cache1.asset-cache.net/gc/136128585-alarm-clock-between-stack-of-books-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=EyNv7ew7LWA9wp4QLyTvJH8d6wWpElnByStw16eNBpM%3d">
+          <img class="img-polaroid" src="http://cache1.asset-cache.net/gc/136128585-alarm-clock-between-stack-of-books-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=EyNv7ew7LWA9wp4QLyTvJH8d6wWpElnByStw16eNBpM%3d">
         </div>
         <div class="span5 copy">
           <p>
             The platform will be created for self-learners who struggle with motivation to dedicate time for studies every day. Apart from providing resources for studies, the platform will to put their work in the context of everyday achievement: coming closer to the goal (e.g. "Concept of DNA sequencing in the modern context") by devoting some specified amount of time every day will make you comptent in some selected subject in e.g. 100 days.
+            
           </p>
         </div>
       </div>
@@ -225,7 +218,7 @@
           </p>
         </div>
         <div class="span5 asset">
-          <img class="img-polaroid"  alt="Placeholder" src="http://cache2.asset-cache.net/gc/173258331-white-flip-clock-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=g5XG%2bpTeZVjPFON2%2b3dDANLXNgNF4eUsfum7gYy6b%2b8%3d">
+          <img class="img-polaroid" src="http://cache2.asset-cache.net/gc/173258331-white-flip-clock-gettyimages.jpg?v=1&c=IWSAsset&k=2&d=g5XG%2bpTeZVjPFON2%2b3dDANLXNgNF4eUsfum7gYy6b%2b8%3d">
         </div>
       </div>
 
